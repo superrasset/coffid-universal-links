@@ -3,9 +3,23 @@
     "apps": [],
     "details": [
       {
-        "appID": "KY54BPJR8T.com.coffid.app",
-        "paths": [ "/second/*", "/second*" ]
+        "appIDs": [
+          "KY54BPJR8T.com.coffid.app"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "KY54BPJR8T.com.coffid.app"
     ]
   }
 }
