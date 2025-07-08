@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "KY54BPJR8T.com.coffid",
+        "appID": "KY54BPJR8T.com.coffid.app",
         "paths": [ "/second/*", "/second*" ]
       }
     ]
