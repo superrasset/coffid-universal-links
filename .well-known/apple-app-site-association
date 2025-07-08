@@ -4,8 +4,7 @@
     "details": [
       {
         "appID": "KY54BPJR8T.com.coffid",
-        "paths": [ "/second/*" ]
-      }
+        "paths": [ "/second/*", "/second*" ]      }
     ]
   }
 }
